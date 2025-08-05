@@ -1,21 +1,26 @@
 <h1 align="center">
-  <img src="assets/images/preview.png" align="top" alt="Paasword Logo" />
+  <img src="assets/images/preview.png" align="top" alt="Paasword Preview">
 </h1>
 
 <h1 align="center">
-  <img src="assets/images/logo.ico" width="44" align="top" alt="Paasword icon" />
+  <img src="assets/images/logo.ico" width="44" align="top" alt="Paasword Icon">
   Tkinter App Template: Paasword
-</h1>
-
-<div align="center">
   
   [![Language](https://custom-icon-badges.demolab.com/badge/Python%203.10+-9e5826?logo=pythonn)](#)
   [![Lib](https://custom-icon-badges.demolab.com/badge/Tkinter%208.6-9e5826?logo=tkinter)](#)
   [![License](https://custom-icon-badges.demolab.com/badge/License%20MIT-9e5826?logo=law&label)](https://github.com/n1xsi/paasword-tkinter/blob/main/LICENSE)
   
-</div>
+</h1>
 
-Многофункциональный генератор паролей «Paasword» — это проект-шаблон для создания десктопных приложений на Python с использованием библиотеки Tkinter. 
+Многофункциональный генератор паролей **«Paasword»** — это проект-шаблон для создания десктопных приложений на Python с использованием библиотеки **Tkinter**.
+
+<h3>
+  
+  🧪 Опробовать проект: [Последний релиз](https://github.com/n1xsi/paasword-tkinter/releases/latest)
+
+</h3>
+
+<br>
 
 ## 🎯 Зачем нужен этот проект?
 
@@ -47,7 +52,7 @@ git clone https://github.com/n1xsi/paasword-tkinter.git
 cd paasword-tkinter
 ```
 
-### 2. Создание виртуального окружения (если требуется)
+### 2. Создание виртуального окружения (рекомендуется)
 ```bash
 # Для Windows
 python -m venv venv
@@ -58,7 +63,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 3. Установка зависимостей (если выполнен пункт 2)
+### 3. Установка зависимостей (если сделан пункт 2)
 ```bash
 pip install -r requirements.txt
 ```
@@ -76,7 +81,13 @@ pyinstaller --name Paasword --onefile --windowed --icon="assets/images/logo.ico"
 ```
 Готовый файл «Paasword.exe» появится в папке dist.
 
-## ⚙️ Функционал приложения-примера (использование)
+## ⚙️ Функционал приложения-примера
+
+<div align="center">
+  <img src="assets/images/menu.png" align="top" alt="Paasword Menu">
+</div>
+
+<br>
 
 Генератор паролей, реализованный в данном шаблоне, демонстрирует следующие возможности:
 
