@@ -8,7 +8,7 @@
   
   [![Language](https://custom-icon-badges.demolab.com/badge/Python%203.10+-9e5826?logo=pythonn)](#)
   [![Lib](https://custom-icon-badges.demolab.com/badge/Tkinter%208.6-9e5826?logo=tkinter)](#)
-  [![License](https://custom-icon-badges.demolab.com/badge/License%20MIT-9e5826?logo=law&label)](https://github.com/n1xsi/paasword-tkinter/blob/main/LICENSE)
+  [![License](https://custom-icon-badges.demolab.com/badge/License%20MIT-9e5826?logo=law&label)](LICENSE)
   
 </h1>
 
